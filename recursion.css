@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Baloo+Bhaijaan+2&family=Comfortaa&family=Concert+One&family=Dosis:wght@300&family=Genos:wght@300&family=Lato&family=Montserrat:wght@300&family=Pacifico&family=Permanent+Marker&family=Special+Elite&family=Voltaire&display=swap');
+body{
+    width:100vw;
+    height:100vh;
+    border:0;
+    margin:0;
+    font-family: 'Comfortaa', cursive;
+
+
+}
+
+h2{
+    margin:0;
+    background-color:coral;
+    color:white;
+    height:15vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    padding-left:1%;
+}
+
+#inp{
+    width: 50%;
+    height:2rem;
+    border-radius:5px;
+    margin:2rem;
+    margin-top:10%;
+}
+#btn{
+    height:2rem;
+
+}
+
+p{
+    height:3rem;
+    margin:3rem;
+    font-weight: bolder;
+}
